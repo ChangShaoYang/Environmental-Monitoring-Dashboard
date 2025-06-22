@@ -33,8 +33,8 @@ This project is a real-time greenhouse temperature and humidity visualization da
 
 | Mode | Screenshot |
 |------|------------|
-| **3D Contour Map** | ![3D Map](./ContourMap3D_web.png) |
-| **2D Contour Map** | ![2D Map](./ContourMapLine_web.png) |
+| **3D Contour Map** | ![3D Map](/docs/ContourMap3D_web.png) |
+| **2D Contour Map** | ![2D Map](/docs/ContourMapLine_web.png) |
 
 - Buttons:
   - 🔁 **Refresh**: reloads latest plots
